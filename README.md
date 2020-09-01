@@ -10,3 +10,7 @@ It's similar to linktree, but i’ts more:
 -> You have a field to add your Facebook Pixel code
 -> You can custumize the name of the page, examples: “yoursite.com/links”, “yoursite.com/bio”…
 -> I’ts All Free!
+
+see here:
+
+https://wordpress.org/plugins/asc-bio/
