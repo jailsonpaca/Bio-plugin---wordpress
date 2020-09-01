@@ -1,4 +1,4 @@
-# Bio-plugin---wordpress
+# Bio-plugin-wordpress
 ASC Bio Plugin is a multi-link tool for use in social media to add many link(urls) in a single page from your site.
 It's similar to linktree, but i’ts more:
 -> You can associate with your wordpress site!
